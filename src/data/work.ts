@@ -34,7 +34,7 @@ const works = [
       { name: "TypeScript", icon: "/skills/typescript.svg" },
       { name: "Docker", icon: "/skills/docker.svg" },
     ],
-    date: "Jul 2021 - Jun 2023",
+    date: "Jan 2022 - Jun 2023",
   },
 ];
 
