@@ -10,7 +10,7 @@ import { BsFileText } from 'react-icons/bs'
 
 export default function Resume() {
   const resumeData =
-  'https://www.canva.com/design/DAGOUMIamJA/hsGW6-er11AR6Dsu4Qpl9A/view'
+  'https://www.canva.com/design/DAG6ark1IQM/VEmFYCZo1S_jyJ6d5AAKtg/view'
   const previewData = `${resumeData.substr(
     0,
     resumeData.lastIndexOf('/') + 1

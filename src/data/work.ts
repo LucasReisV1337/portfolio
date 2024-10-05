@@ -1,5 +1,22 @@
 const works = [
   {
+  id: 1,
+    img: "/works/gcb.jpeg",
+    title: "Grupo Casas Bahia",
+    subTitle: "Desenvolvedor Backend",
+    office: "São Paulo / Remoto",
+    description:
+      "Alocado na BanQi, atuo como Desenvolvedor Backend desenvolvendo e mantendo serviços de alta disponibilidade e escalabilidade, garantindo a formalizacao de diversas CCB`s para os clientes da Casas Bahia.",
+    tags: [
+      { name: "Nest", icon: "/skills/nest.svg" },
+      { name: "Node", icon: "/skills/node.svg" },
+      { name: "AWS", icon: "/skills/aws.svg" },
+      { name: "TypeScript", icon: "/skills/typescript.svg" },
+      { name: "Terraform", icon: "/skills/terraform.svg" },
+    ],
+    date: "nov 2024 - Presente",
+  },
+  {
     id: 1,
     img: "/works/use.jpeg",
     title: "USE Uniformes SP",
@@ -16,7 +33,7 @@ const works = [
       { name: "Grafana", icon: "/skills/grafana.svg" },
       { name: "Prometheus", icon: "/skills/prometheus.svg" },
     ],
-    date: "jun 2023 - Presente",
+    date: "jun 2023 - nov 2024",
   },
   {
     id: 2,
@@ -34,7 +51,7 @@ const works = [
       { name: "TypeScript", icon: "/skills/typescript.svg" },
       { name: "Docker", icon: "/skills/docker.svg" },
     ],
-    date: "Jul 2021 - Jun 2023",
+    date: "Jan 2021 - Jun 2023",
   },
 ];
 
