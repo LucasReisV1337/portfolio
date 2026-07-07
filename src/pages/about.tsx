@@ -64,10 +64,10 @@ export default function About() {
                     </a>
                   </Link>
                   <Link
-                    href={'https://api.whatsapp.com/send?phone=5571988934202'}
+                    href={'https://api.whatsapp.com/send?phone=5571986758027'}
                   >
                     <a target="_blank" aria-label="Link para o WhatsApp">
-                      <RiWhatsappFill size={25} /> +55 (71) 98893-4202
+                      <RiWhatsappFill size={25} /> +55 (71) 98675-8027
                     </a>
                   </Link>
                   <Link
@@ -81,7 +81,7 @@ export default function About() {
                       <FaDiscord size={25} /> @cold4night
                     </a>
                   </Link>
-                  <Link href={'mailto:lucasreisvasconcelos@icloud.com'}>
+                  <Link href={'mailto:lucasreisvasconcelos@gmail.com'}>
                     <a
                       className="email"
                       target="_blank"
