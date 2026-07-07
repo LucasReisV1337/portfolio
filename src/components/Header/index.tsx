@@ -109,7 +109,7 @@ export function Header() {
               <FiLinkedin />
             </a>
           </Link>
-          <Link href={'https://api.whatsapp.com/send?phone=5571988934202'}>
+          <Link href={'https://api.whatsapp.com/send?phone=5571986758027'}>
             <a
               target="_blank"
               aria-label="Link para entrar em contato via whatsapp"
