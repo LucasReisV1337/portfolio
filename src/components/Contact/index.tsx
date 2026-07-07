@@ -28,7 +28,7 @@ export function Contact() {
             <h4>
               <BsWhatsapp size={22} color="#00fffb" /> WhatsApp{' '}
             </h4>
-            <Link href="https://api.whatsapp.com/send?phone=5571988934202">
+            <Link href="https://api.whatsapp.com/send?phone=5571986758027">
               <a target="_blank">
                 <span>+55 71 98893-4202</span>
               </a>
